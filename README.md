@@ -1,7 +1,7 @@
 # TGNameUp
 ### On the Docker run Telegram-Name-Updating.    
 
-Update the user name (last_name) every 30 seconds.   
+Update the user name (last_name) every 60 seconds.   
 
 Reference documentation：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
 #### Docker hub: [eoyz369/tg-nameup](https://hub.docker.com/r/eoyz369/tg-nameup ) 
