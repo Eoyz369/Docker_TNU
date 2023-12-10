@@ -1,4 +1,8 @@
 # TGNameUp
 On the docker run Telegram-Name-Updating
 
-docker run -it --rm --name my-first-python-script  eoyz369/tgNameUp
+### One-click run
+#### AMD/ARM  Machines
+```
+docker run -it --rm --name TGNameUp  eoyz369/tgNameUp:latest
+ ```
