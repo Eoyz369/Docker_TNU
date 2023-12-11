@@ -12,8 +12,9 @@ Get `api_id` 和 `api_hash`
 
 ## One-click run
 #### AMD/ARM  Machines
+Setting the time zone to `Asia/Shanghai`
 ```
-docker run -it --rm --name TGNameUp  eoyz369/tg-nameup:latest
+docker run -it --rm -e TZ=Asia/Shanghai --name TGNameUp eoyz369/tg-nameup:latest
  ```
 ## Api authentication and user login
 
