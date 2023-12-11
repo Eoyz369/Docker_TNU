@@ -7,7 +7,8 @@ Reference documentation：<a href="https://telethon.readthedocs.io/en/stable/">T
 #### Docker hub: [eoyz369/tg-nameup](https://hub.docker.com/r/eoyz369/tg-nameup ) 
 
 ## Prerequisites
-Create an application: https://my.telegram.org/  
+Create an application: https://my.telegram.org/   
+
 Get `api_id` 和 `api_hash`
 
 ## One-click run
